@@ -4,7 +4,7 @@ A simple Android application built for former employer with Python, KV language,
 
 It was developed as a personal project to learn the basics of Python and Kivy.
 
-The app takes user input, performs calculations based on the current date, and displays how much the customer
+The app takes user input from button and textbox, performs calculations based on the current date, and displays how much the customer
 must pay for the prorate, unit price, tax, subtotal, total cost, and when their next payment is due.
 
 
