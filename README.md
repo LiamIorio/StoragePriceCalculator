@@ -5,7 +5,7 @@ A simple Android application built for former employer with Python, KV language,
 It was developed as a personal project to learn the basics of Python and Kivy.
 
 The app takes user input from button and text field, performs calculations based on the current date, and displays how much the customer
-must pay for the prorate, unit price, tax, subtotal, total cost, and when their next payment is due.
+must pay for the prorate, base price, tax, subtotal, grandtotal, and when their next payment is due.
 
 
 Acceptable unit sizes are: 5x5, 5x10, 5x15, 10x10, 12x10, 10x15, 12x15, 10x20, 10x30, 12x25, 12x30
