@@ -1,4 +1,4 @@
-# Storage Price Calculator App
+# Storage Price Calculator
 
 A simple Android application built for former employer with Python, KV language, and Kivy that calculates storage unit pricing based on size, date, and one month pricing or six month deals
 
