@@ -12,9 +12,9 @@ Acceptable unit sizes are: 5x5, 5x10, 5x15, 10x10, 12x10, 10x15, 12x15, 10x20, 1
 
 Must input unit size as sizexsize in textbox. Example: 5x5
 
-## Must press enter after inputting unit size in text box
+**Must press enter after inputting unit size in text box**
 
-What was used:
+# What was used:
 - Python
 - Kivy/ KivyMD (for Android app development)
 - Buildozer (for packaging APK)
