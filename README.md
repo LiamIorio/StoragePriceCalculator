@@ -13,6 +13,7 @@ Acceptable unit sizes are: 5x5, 5x10, 5x15, 10x10, 12x10, 10x15, 12x15, 10x20, 1
 Must input unit size as sizexsize in textbox. Example: 5x5
 
 **Must press enter after inputting unit size in text box**
+
 <img width="307" height="700" alt="Finished App" src="https://github.com/user-attachments/assets/dcc993b2-b4a7-4b3e-b809-7df3e7d00ec6" />
 
 
